@@ -1,0 +1,6 @@
+customLogLineNumber2024/06/13 16:17:45 Hello, there!
+customLogLineNumber2024/06/13 16:17:45 Another log entry
+customLogLineNumber2024/06/13 16:18:29 Hello, there!
+customLogLineNumber2024/06/13 16:18:29 Another log entry
+customLogLineNumber 2024/06/13 16:20:26 customLog.go:23: Hello, there!
+customLogLineNumber 2024/06/13 16:20:26 customLog.go:24: Another log entry
