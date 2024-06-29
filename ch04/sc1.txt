@@ -1,0 +1,4 @@
+The logic behind the program is pretty simple: you split each line of text and select the
+desired column. However, as you cannot be sure that the current line has the required
+number of fields, you check that before printing any output. This is the simplest form of
+pattern matching because each line is split using space characters as word separators.
